@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RajeevDash007/bubblesortvisualizer.git/static/css/main.d273a8b6.css",
+    "main.js": "/RajeevDash007/bubblesortvisualizer.git/static/js/main.018ba943.js",
+    "static/js/787.878a89ae.chunk.js": "/RajeevDash007/bubblesortvisualizer.git/static/js/787.878a89ae.chunk.js",
+    "index.html": "/RajeevDash007/bubblesortvisualizer.git/index.html",
+    "main.d273a8b6.css.map": "/RajeevDash007/bubblesortvisualizer.git/static/css/main.d273a8b6.css.map",
+    "main.018ba943.js.map": "/RajeevDash007/bubblesortvisualizer.git/static/js/main.018ba943.js.map",
+    "787.878a89ae.chunk.js.map": "/RajeevDash007/bubblesortvisualizer.git/static/js/787.878a89ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d273a8b6.css",
+    "static/js/main.018ba943.js"
+  ]
+}
